@@ -2,7 +2,9 @@
 
 [Yazi](https://github.com/sxyazi/yazi) plugin for automatically selecting favorite files when entering a directory
 
-<TBD: screenshot>
+## Screenshot
+
+![Screenshot](/demo.gif)
 
 ## Requirements
 
